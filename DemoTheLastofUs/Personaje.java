@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/* import java.util.ArrayList;
 import java.util.List;
 
 public class Personaje {
@@ -45,3 +45,4 @@ public class Personaje {
         this.ataquesEspeciales = new ArrayList<>();
     }
 }
+ */

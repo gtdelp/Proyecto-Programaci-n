@@ -1,4 +1,4 @@
-public class Arma {
+/* public class Arma {
 
     protected String nombre;
     protected int danoBase;
@@ -8,3 +8,4 @@ public class Arma {
         this.danoBase = danoBase;
     }
 }
+ */

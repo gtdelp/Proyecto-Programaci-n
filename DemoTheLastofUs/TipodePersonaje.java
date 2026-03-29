@@ -1,5 +1,5 @@
-public enum TipodePersonaje {
+/* public enum TipodePersonaje {
     Joel,
     Ellie,
     Abby
-}
+} */

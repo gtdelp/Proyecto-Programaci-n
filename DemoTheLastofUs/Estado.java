@@ -1,4 +1,4 @@
-public class Estado {
+/* public class Estado {
 
     protected String nombre;
     protected int turnosRestantes;
@@ -10,3 +10,4 @@ public class Estado {
         this.potenciaPorTurnos = potenciaPorTurnos;
     }
 }
+ */

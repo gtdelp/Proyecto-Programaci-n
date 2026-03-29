@@ -1,4 +1,4 @@
-public class Main {
+/* public class Main {
 
     public static void main(String[] args) {
 
@@ -44,3 +44,4 @@ public class Main {
         System.out.println(abby.nombre  + " | vida: " + abby.vidaActual  + "/" + abby.vidaMax  + " | arma: " + abby.armaEquipada.nombre);
     }
 }
+ */

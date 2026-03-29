@@ -1,4 +1,4 @@
-public class AtaqueEspecial {
+/* public class AtaqueEspecial {
 
     protected String nombre;
     protected int costeDeRecurso;
@@ -14,3 +14,4 @@ public class AtaqueEspecial {
         this.potenciaBase = potenciaBase;
     }
 }
+ */
